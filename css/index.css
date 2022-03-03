@@ -1,0 +1,64 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fotoperfil{
+ width: 200px;    
+}
+
+
+.foto-portada{
+  text-align: center;
+  background-color: rgba(220, 229, 236, 0.589);
+  
+ 
+    
+}
+
+main{
+    background-color: rgba(215, 235, 235, 0.781);
+}
+
+
+
+h1{
+    color: #005677;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 45px;
+    background-color: #C4C4C4;
+}
+
+h3{
+    font-size: 30px;
+    background-color: #C4C4C4;
+    font-family: Times New Roman;
+    color: #005677;
+}
+
+ul{
+    list-style: none;
+    
+}
+
+.listas-f{
+    display: inline-block;
+  
+}
+
+nav{
+    text-align: center;
+   padding-top: 30px;
+   
+
+}
+
+
+.fotito{
+    width: 20px;
+    margin: 30px;
+    
+}
+
+
+
